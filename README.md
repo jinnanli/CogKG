@@ -5,7 +5,7 @@ AACL 2022.
 
 ## Overview
 With a knowledge graph and a set of if-then rules, can we reason about the conclusions given a set of observations?
-In this work, we formalize this question as the **cognitive inference** problem, and introduce the **Cog**nitive **K**nowledge **G**raph **CogKG** that unifies two representations of heterogeneous symbolic knowledge: expert rules and relational facts.
+In this work, we formalize this question as the **cognitive inference** problem, and introduce the **Cog**nitive **K**nowledge **G**raph(**CogKG**) that unifies two representations of heterogeneous symbolic knowledge: expert rules and relational facts.
 We propose a general framework in which the unified knowledge representations can perform both learning and reasoning.
 Specifically, we implement the above framework in two settings, depending on the availability of labeled data.
 When no labeled data are available for training, the framework can directly utilize symbolic knowledge as the decision basis and perform reasoning.
