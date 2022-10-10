@@ -20,5 +20,5 @@ This repo was tested on Python 3.7 and the main requirements are:
 - scikit-learn==1.0.2
 
 ## Datasets
--Muzhi
--MDD
+- Muzhi
+- MDD
