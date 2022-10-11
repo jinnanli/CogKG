@@ -1,0 +1,216 @@
+{"symptoms": {"C0027424": "True", "C0010200": "True", "C0008031": "False", "C0015967": "False"}, "disease": "C0040147"}
+{"symptoms": {"C0027424": "True", "C0015967": "True", "C0010200": "False", "C0242429": "False", "C0038056": "True"}, "disease": "C0024894"}
+{"symptoms": {"C0033774": "True", "C0015230": "True", "C0027497": "False", "C0085593": "False", "C0042963": "False"}, "disease": "C0011615"}
+{"symptoms": {"C0013456": "True", "C1384666": "False", "C0015967": "False", "C0849907": "True"}, "disease": "C0029878"}
+{"symptoms": {"C0037383": "True", "C0015967": "False", "C0018681": "False", "C0027424": "True", "C1260880": "True"}, "disease": "C0035455"}
+{"symptoms": {"C0008031": "True", "C0232292": "False", "C0013404": "True"}, "disease": "C1279369"}
+{"symptoms": {"C0262397": "True", "C1260880": "False", "C0242429": "False", "C0012833": "True"}, "disease": "C0024894"}
+{"symptoms": {"C1260880": "True", "C0015967": "False", "C0027424": "True"}, "disease": "C0035455"}
+{"symptoms": {"C1260880": "True", "C0038862": "False", "C0015967": "False", "C0010200": "True", "C0027424": "True", "C0242429": "True"}, "disease": "C0035455"}
+{"symptoms": {"C0242429": "True", "C1260880": "True", "C0038862": "False", "C0010200": "False", "C0231874": "False", "C0015967": "False"}, "disease": "C0035455"}
+{"symptoms": {"C0242429": "True", "C0038990": "True", "C0232292": "False", "C0221512": "False", "C0042963": "False", "C0030252": "False", "C0004604": "False", "C0344232": "False", "C0039070": "False", "C0008031": "True"}, "disease": "C1279369"}
+{"symptoms": {"C0015967": "True", "C0221512": "True", "C0332575": "True"}, "disease": "C0024894"}
+{"symptoms": {"C0040264": "True", "C0018681": "False", "C0012833": "False", "C0013456": "True", "C1384666": "True"}, "disease": "C0029878"}
+{"symptoms": {"C0018681": "True", "C0242429": "True"}, "disease": "C0040147"}
+{"symptoms": {"C0008031": "True", "C0013404": "False", "C0039070": "False", "C0011991": "False", "C0042963": "False", "C0030252": "False", "C0012833": "False", "C0221512": "False", "C0232292": "False", "C0038990": "True"}, "disease": "C1279369"}
+{"symptoms": {"C0015230": "True", "C0010200": "False", "C0037383": "False", "C0013428": "False", "C0013404": "False", "C0439609": "False", "C1260880": "False", "C0042023": "False", "C0232292": "False", "C0033774": "True"}, "disease": "C0011615"}
+{"symptoms": {"C0027497": "True", "C0008031": "True", "C0242429": "True", "C4317146": "True"}, "disease": "C0014868"}
+{"symptoms": {"C0015967": "True", "C0027424": "False", "C1260880": "False", "C0242429": "True"}, "disease": "C0040147"}
+{"symptoms": {"C0232292": "True", "C0015967": "False", "C0013404": "False", "C0221512": "False", "C0033774": "True", "C0015230": "True"}, "disease": "C0011615"}
+{"symptoms": {"C0849907": "True", "C0040264": "False", "C0015967": "False", "C0012833": "False", "C0013456": "False"}, "disease": "C0029878"}
+{"symptoms": {"C0037383": "True", "C0027424": "False", "C1260880": "False", "C0015967": "False", "C0010200": "True", "C0242429": "True"}, "disease": "C0035455"}
+{"symptoms": {"C0033774": "True", "C0015230": "True", "C0232292": "False", "C0010200": "False", "C0011991": "False", "C0030252": "False", "C0015967": "False"}, "disease": "C0011615"}
+{"symptoms": {"C0232292": "True", "C0030252": "True", "C0013404": "False", "C0008031": "False", "C0013604": "False", "C0038056": "False", "C0019079": "False"}, "disease": "C0004096"}
+{"symptoms": {"C0013456": "True", "C0040264": "False", "C0042963": "False", "C0027497": "False", "C1384666": "False", "C0042571": "False", "C0849907": "True"}, "disease": "C0029878"}
+{"symptoms": {"C4074940": "True", "C0085636": "True", "C0030252": "False", "C0038990": "False"}, "disease": "C0009763"}
+{"symptoms": {"C0013456": "True", "C1384666": "False", "C0042963": "False", "C0015967": "False", "C0027497": "False", "C0042571": "False", "C0040264": "True", "C0849907": "True"}, "disease": "C0029878"}
+{"symptoms": {"C0030252": "True", "C0232292": "True", "C0042963": "False", "C0027497": "False"}, "disease": "C1279369"}
+{"symptoms": {"C0262397": "True", "C0015967": "True", "C0027424": "False", "C1260880": "False"}, "disease": "C0024894"}
+{"symptoms": {"C1260880": "True", "C0018681": "False", "C0012833": "False", "C0037383": "True"}, "disease": "C0035455"}
+{"symptoms": {"C0027497": "True", "C0085593": "True", "C0221512": "True", "C0011991": "True", "C0000737": "True"}, "disease": "C0014335"}
+{"symptoms": {"C4317146": "True", "C4048182": "False", "C0015672": "False", "C0221512": "False", "C0085624": "True"}, "disease": "C0014868"}
+{"symptoms": {"C0015967": "True", "C1260880": "True", "C0010200": "False", "C0242429": "False", "C0015672": "True", "C0085593": "True"}, "disease": "C0032285"}
+{"symptoms": {"C0030252": "True", "C0232292": "True", "C0008031": "False"}, "disease": "C1279369"}
+{"symptoms": {"C0232292": "False", "C0015967": "False", "C0085593": "False", "C1260880": "False", "C0027424": "False"}, "disease": "C0024894"}
+{"symptoms": {"C0033774": "True", "C0232292": "False", "C0013404": "False", "C0221512": "False", "C0011991": "False", "C0015230": "True"}, "disease": "C0011615"}
+{"symptoms": {"C0221512": "True", "C0577098": "True", "C0028081": "False", "C0015967": "False", "C0042963": "False"}, "disease": "C0014335"}
+{"symptoms": {"C0027424": "True", "C0011991": "True", "C0010200": "False", "C0042963": "True"}, "disease": "C0032285"}
+{"symptoms": {"C0221512": "True", "C0015967": "True", "C0085593": "True", "C0042963": "True", "C0011991": "True", "C0000737": "True"}, "disease": "C0014335"}
+{"symptoms": {"C0015967": "True", "C0262397": "True", "C0010200": "False", "C0027424": "False"}, "disease": "C0024894"}
+{"symptoms": {"C0015967": "True", "C0439609": "False", "C0042023": "False", "C0038056": "False", "C0010200": "False", "C0013428": "False", "C1260880": "True"}, "disease": "C0024894"}
+{"symptoms": {"C1384666": "True", "C0015967": "False", "C0013404": "False", "C0013456": "True", "C0040264": "True", "C0849907": "True"}, "disease": "C0029878"}
+{"symptoms": {"C0013456": "False", "C0040264": "False", "C0015967": "False", "C0232292": "False", "C0849907": "True"}, "disease": "C0029878"}
+{"symptoms": {"C0232292": "True", "C0042963": "False", "C0011991": "False", "C0027497": "False", "C0019079": "False", "C0221512": "False", "C0010200": "True", "C0013404": "True", "C0030252": "True", "C0038056": "True"}, "disease": "C0032285"}
+{"symptoms": {"C4074940": "True", "C0012569": "False", "C0270996": "False", "C0151827": "False", "C0022281": "True"}, "disease": "C0009763"}
+{"symptoms": {"C0033774": "True", "C0015230": "True", "C0018681": "False", "C0015672": "False", "C0000737": "False", "C0038056": "False", "C0015967": "False"}, "disease": "C0011615"}
+{"symptoms": {"C0038056": "True", "C0010200": "True", "C0040264": "False", "C0042571": "False", "C0027497": "False", "C0042963": "False", "C0013456": "False"}, "disease": "C0029878"}
+{"symptoms": {"C0242429": "True", "C0038056": "True", "C0008031": "False", "C0015967": "False", "C0232292": "True", "C0010200": "True", "C0027424": "True", "C1260880": "True"}, "disease": "C0004096"}
+{"symptoms": {"C0042963": "True", "C0019521": "False", "C0232292": "True", "C0011991": "False", "C0221512": "False", "C4317146": "False", "C0027497": "False", "C0038990": "False", "C0010200": "False", "C0008031": "False"}, "disease": "C0014868"}
+{"symptoms": {"C4317146": "True", "C0232292": "True", "C0019825": "True"}, "disease": "C0040147"}
+{"symptoms": {"C0010200": "True", "C0015967": "False", "C0008031": "False", "C0242429": "True"}, "disease": "C0040147"}
+{"symptoms": {"C1260880": "True", "C0085593": "False", "C0015967": "False", "C0010200": "True"}, "disease": "C0035455"}
+{"symptoms": {"C0027424": "True", "C1384666": "False", "C0013456": "False"}, "disease": "C0035455"}
+{"symptoms": {"C1291077": "True", "C0042963": "False", "C0038056": "False", "C0085594": "False", "C0232292": "True", "C0013404": "True", "C0027497": "True", "C0015672": "True"}, "disease": "C1279369"}
+{"symptoms": {"C0577098": "True", "C0015967": "False", "C0221512": "True"}, "disease": "C0014335"}
+{"symptoms": {"C0012833": "True", "C0018674": "True"}, "disease": "C0876926"}
+{"symptoms": {"C1260880": "True", "C0018681": "False", "C0010200": "False", "C0242429": "False", "C0008031": "False"}, "disease": "C0035455"}
+{"symptoms": {"C0013404": "True", "C0232292": "True", "C0038056": "True"}, "disease": "C0004096"}
+{"symptoms": {"C4317146": "True", "C0085624": "True", "C0221512": "False", "C0042963": "False", "C0008031": "False", "C0027497": "False", "C0232292": "False"}, "disease": "C0014868"}
+{"symptoms": {"C0262397": "True", "C0015967": "True", "C0042963": "False", "C0027497": "True"}, "disease": "C0024894"}
+{"symptoms": {"C0013404": "True", "C0085594": "False", "C0234254": "False", "C0038056": "False", "C0232292": "True", "C0012833": "True", "C0008031": "True"}, "disease": "C1279369"}
+{"symptoms": {"C0242429": "True", "C0015230": "False", "C0231530": "False", "C0010200": "True", "C0015967": "True"}, "disease": "C0032285"}
+{"symptoms": {"C0542301": "True", "C0085624": "True", "C4317146": "True", "C0030252": "True", "C0235162": "True"}, "disease": "C0014868"}
+{"symptoms": {"C0015230": "True", "C0015967": "False", "C0085593": "False", "C0033774": "True"}, "disease": "C0011615"}
+{"symptoms": {"C0027424": "True", "C0015967": "False", "C0013404": "True", "C0037383": "True"}, "disease": "C0004096"}
+{"symptoms": {"C0030252": "True", "C0015967": "True", "C0027424": "False", "C0010200": "False", "C0018021": "True", "C0007859": "True", "C0242429": "True", "C0015672": "True"}, "disease": "C0040147"}
+{"symptoms": {"C0849907": "True", "C1384666": "True", "C0042571": "False", "C0027497": "False", "C0015967": "False", "C0042963": "False", "C0013456": "True"}, "disease": "C0029878"}
+{"symptoms": {"C0232292": "True", "C0015967": "False", "C0008031": "False", "C0019079": "False", "C0010200": "True"}, "disease": "C0004096"}
+{"symptoms": {"C0038990": "True", "C0008031": "True", "C0232292": "True", "C0030252": "True"}, "disease": "C1279369"}
+{"symptoms": {"C0085593": "True", "C0027497": "False", "C0042963": "False", "C0015967": "True", "C0015672": "True"}, "disease": "C0024894"}
+{"symptoms": {"C0033774": "True", "C0013404": "False", "C0221512": "False", "C0015967": "False", "C0015230": "True"}, "disease": "C0011615"}
+{"symptoms": {"C0085593": "True", "C0015967": "True", "C0009806": "False"}, "disease": "C0040147"}
+{"symptoms": {"C0039070": "True", "C0030252": "False", "C0232292": "True", "C0008031": "True"}, "disease": "C1279369"}
+{"symptoms": {"C0027497": "False", "C0042963": "False", "C0011991": "False", "C0221512": "True"}, "disease": "C0032285"}
+{"symptoms": {"C0085624": "True", "C4317146": "False", "C1291077": "True"}, "disease": "C0014868"}
+{"symptoms": {"C0010200": "True", "C0027424": "False", "C1260880": "False", "C0232292": "True", "C0013404": "True"}, "disease": "C0004096"}
+{"symptoms": {"C0012833": "True", "C0027497": "True", "C0042963": "False", "C0007859": "True"}, "disease": "C0876926"}
+{"symptoms": {"C0024031": "True", "C0015967": "True", "C0018681": "True"}, "disease": "C0032285"}
+{"symptoms": {"C0042963": "True", "C4074940": "True"}, "disease": "C0876926"}
+{"symptoms": {"C0085636": "True", "C0151827": "False", "C3665386": "False", "C4074940": "True"}, "disease": "C0009763"}
+{"symptoms": {"C0033774": "True", "C0015230": "True", "C0010200": "False", "C0015967": "False", "C0085593": "False", "C0242429": "False"}, "disease": "C0011615"}
+{"symptoms": {"C0027497": "True", "C0042963": "False", "C0232292": "False", "C0015967": "False", "C0038056": "False", "C0010200": "True"}, "disease": "C0032285"}
+{"symptoms": {"C0232292": "True", "C0010200": "False", "C0008031": "False", "C0015967": "False"}, "disease": "C0004096"}
+{"symptoms": {"C0015230": "True", "C0033774": "True", "C0027497": "False", "C0013404": "False", "C0030252": "False", "C0019825": "False", "C0232292": "False"}, "disease": "C0011615"}
+{"symptoms": {"C0242429": "True", "C0015967": "False", "C0018681": "False", "C0027424": "True"}, "disease": "C0035455"}
+{"symptoms": {"C0027497": "True", "C0018681": "True", "C0042963": "False", "C0231530": "False"}, "disease": "C0876926"}
+{"symptoms": {"C0085593": "True", "C0015967": "True", "C0000737": "True"}, "disease": "C0014335"}
+{"symptoms": {"C0018021": "True", "C0015967": "False", "C0015672": "False", "C0018681": "True", "C0007859": "True"}, "disease": "C0040147"}
+{"symptoms": {"C0038990": "True", "C0030252": "True", "C0010200": "False", "C0027424": "False", "C0015967": "False", "C0015672": "False"}, "disease": "C0040147"}
+{"symptoms": {"C0018681": "True", "C0042963": "False", "C0027497": "False", "C0041657": "False", "C4074940": "True"}, "disease": "C0876926"}
+{"symptoms": {"C0042963": "True", "C0221512": "False", "C0008031": "False", "C0027497": "False", "C0018926": "False", "C0025222": "False", "C4048182": "True"}, "disease": "C0014868"}
+{"symptoms": {"C0242429": "True", "C0232292": "True", "C0028081": "False", "C0027424": "False", "C0015967": "False", "C1260880": "False", "C0010200": "True", "C0013404": "True"}, "disease": "C0004096"}
+{"symptoms": {"C0013404": "True", "C1260880": "True", "C0242429": "False", "C0015967": "False", "C0028081": "False", "C0027424": "True", "C0038056": "True", "C0010200": "True", "C0232292": "True", "C0037383": "True"}, "disease": "C0004096"}
+{"symptoms": {"C0085624": "True", "C4317146": "False", "C0221512": "True"}, "disease": "C0014868"}
+{"symptoms": {"C0015967": "True", "C0232292": "False", "C0010200": "True"}, "disease": "C0032285"}
+{"symptoms": {"C0018681": "True", "C0039971": "True", "C0012833": "True"}, "disease": "C0040147"}
+{"symptoms": {"C0232292": "True", "C0010200": "True", "C0013404": "True", "C0027424": "True"}, "disease": "C0004096"}
+{"symptoms": {"C0015967": "True", "C0010200": "True", "C1260880": "False", "C0232292": "False", "C0013404": "False", "C0010520": "False"}, "disease": "C0032285"}
+{"symptoms": {"C0015967": "True", "C0007859": "True"}, "disease": "C0040147"}
+{"symptoms": {"C0040264": "False", "C1384666": "False", "C0012833": "False"}, "disease": "C0029878"}
+{"symptoms": {"C0018681": "True", "C1291077": "False", "C0008031": "False", "C0042963": "False", "C0027497": "False", "C0231530": "False", "C0221512": "False", "C0232292": "False", "C0018674": "True"}, "disease": "C0876926"}
+{"symptoms": {"C0027424": "True", "C0037383": "True", "C0015967": "False", "C0019825": "False", "C1260880": "True"}, "disease": "C0035455"}
+{"symptoms": {"C0085636": "True", "C4074940": "True", "C0151827": "False", "C0270996": "False", "C3665386": "False"}, "disease": "C0009763"}
+{"symptoms": {"C0232292": "True", "C0010200": "True", "C0221512": "False", "C0008031": "False", "C0015967": "False", "C0011991": "False"}, "disease": "C0004096"}
+{"symptoms": {"C0027424": "True", "C0010200": "True", "C0042963": "False", "C0232292": "False", "C0011991": "False", "C0013404": "False", "C0015967": "False", "C1260880": "True"}, "disease": "C0032285"}
+{"symptoms": {"C0008031": "True", "C0012833": "True", "C0027497": "True"}, "disease": "C1279369"}
+{"symptoms": {"C0232292": "True", "C0030252": "True"}, "disease": "C0040147"}
+{"symptoms": {"C0011991": "True", "C0278012": "False", "C0015967": "False", "C0042963": "True", "C1291077": "True"}, "disease": "C0014335"}
+{"symptoms": {"C0018681": "True", "C0012833": "True", "C0426579": "False", "C0042963": "False", "C0027497": "False"}, "disease": "C0876926"}
+{"symptoms": {"C0030252": "True", "C0024031": "False", "C0232292": "True", "C0008031": "True"}, "disease": "C1279369"}
+{"symptoms": {"C0027497": "True", "C0012833": "True", "C0042571": "False", "C0042963": "False", "C0040264": "False"}, "disease": "C1279369"}
+{"symptoms": {"C0231530": "False", "C0015967": "False", "C0042963": "True"}, "disease": "C0876926"}
+{"symptoms": {"C0028961": "True", "C1971624": "True", "C0085593": "False", "C0010200": "True", "C1260880": "True", "C0015967": "True"}, "disease": "C0032285"}
+{"symptoms": {"C3887784": "True", "C0015967": "False", "C0085593": "False", "C0010200": "False", "C0231530": "False", "C0011991": "True"}, "disease": "C0014335"}
+{"symptoms": {"C0270996": "True", "C0085636": "False", "C0015967": "False", "C4074940": "False"}, "disease": "C0009763"}
+{"symptoms": {"C4048182": "True", "C0018926": "False", "C0025222": "False", "C0008031": "False", "C0010200": "True"}, "disease": "C0014868"}
+{"symptoms": {"C0033774": "True", "C0015230": "False", "C0003862": "False", "C0221512": "False"}, "disease": "C0011615"}
+{"symptoms": {"C0018681": "False", "C0027497": "False", "C3665386": "False", "C0042963": "False", "C0151827": "True", "C4074940": "True", "C0085636": "True"}, "disease": "C0009763"}
+{"symptoms": {"C0242429": "True", "C0019521": "True", "C0232292": "False", "C0010200": "False", "C0011991": "False", "C0027497": "False", "C0038990": "False", "C0221512": "False", "C0042963": "True"}, "disease": "C0014868"}
+{"symptoms": {"C0015967": "True", "C0018681": "True", "C0011991": "True"}, "disease": "C0014335"}
+{"symptoms": {"C0012833": "True", "C0232292": "False", "C0018681": "False", "C0027424": "False", "C0038056": "False", "C0011991": "False", "C0015967": "False", "C0008031": "False", "C0042963": "False", "C1260880": "False", "C0037383": "False", "C0010200": "False", "C0013404": "True"}, "disease": "C0004096"}
+{"symptoms": {"C1971624": "True", "C0010200": "True", "C0231530": "False", "C0015967": "False", "C0085593": "False", "C0010520": "False"}, "disease": "C0032285"}
+{"symptoms": {"C0022281": "True", "C0344232": "False", "C0085636": "False", "C4074940": "False"}, "disease": "C0009763"}
+{"symptoms": {"C0221512": "True", "C0085624": "True", "C0010200": "True"}, "disease": "C0014868"}
+{"symptoms": {"C0012833": "True", "C0018926": "False", "C0027497": "True"}, "disease": "C0876926"}
+{"symptoms": {"C0042963": "True", "C0011991": "True", "C0231530": "False", "C0085593": "False", "C0476348": "False", "C0015967": "True"}, "disease": "C0014335"}
+{"symptoms": {"C0015230": "True", "C0085593": "False", "C0015967": "False", "C0033774": "False"}, "disease": "C0011615"}
+{"symptoms": {"C0015230": "True", "C0015967": "False", "C0013404": "False", "C0033774": "True"}, "disease": "C0011615"}
+{"symptoms": {"C0242429": "True", "C4048182": "False", "C0030252": "False", "C0015967": "False", "C0010200": "False", "C0019825": "True"}, "disease": "C0014868"}
+{"symptoms": {"C3665386": "False", "C0085636": "False", "C4074940": "False"}, "disease": "C0009763"}
+{"symptoms": {"C0013404": "True", "C1260880": "True", "C0015967": "False", "C0010200": "True", "C0027424": "True", "C0242429": "True"}, "disease": "C0004096"}
+{"symptoms": {"C0008031": "True", "C0232292": "True", "C0010200": "False", "C0013604": "False", "C0030252": "False", "C0038056": "False"}, "disease": "C1279369"}
+{"symptoms": {"C1260880": "True", "C0024031": "False", "C0038056": "False", "C0010200": "False", "C0011991": "False", "C0015967": "False", "C0221512": "False", "C0013428": "False", "C0018681": "False", "C0027424": "True", "C0242429": "True", "C0037383": "True"}, "disease": "C0035455"}
+{"symptoms": {"C0040264": "True", "C0015967": "False", "C0242429": "False", "C0010200": "False", "C0013456": "True", "C1384666": "True", "C0849907": "True"}, "disease": "C0029878"}
+{"symptoms": {"C0038056": "True", "C0232292": "False", "C0008031": "False", "C0015967": "False", "C0013404": "False", "C0010200": "True", "C0242429": "True", "C0015672": "True"}, "disease": "C0032285"}
+{"symptoms": {"C0085636": "True", "C0151827": "False", "C0242429": "False", "C0015967": "False", "C0010200": "False", "C0022281": "True", "C4074940": "True"}, "disease": "C0009763"}
+{"symptoms": {"C0242429": "True", "C0010200": "True", "C0015967": "False", "C0008031": "True"}, "disease": "C0032285"}
+{"symptoms": {"C0013404": "True", "C0038056": "False", "C0015967": "False", "C0242429": "True", "C0235162": "True"}, "disease": "C0004096"}
+{"symptoms": {"C0010200": "True", "C0019079": "False", "C0008031": "False", "C0013404": "True", "C0038056": "True"}, "disease": "C0004096"}
+{"symptoms": {"C0033774": "True", "C0231530": "False", "C0015967": "False", "C0010200": "False", "C0015230": "True"}, "disease": "C0011615"}
+{"symptoms": {"C0262397": "True", "C0232292": "False", "C0015967": "False", "C0085593": "False"}, "disease": "C0024894"}
+{"symptoms": {"C0232292": "True", "C0013404": "True", "C0085593": "True", "C0010200": "True", "C0015967": "True", "C0038056": "True"}, "disease": "C0004096"}
+{"symptoms": {"C0012833": "True", "C0018681": "True", "C0027497": "False", "C0042963": "False"}, "disease": "C0876926"}
+{"symptoms": {"C0011991": "True", "C0015967": "False", "C0042963": "False", "C0027497": "False", "C0221512": "True", "C1291077": "True"}, "disease": "C0014335"}
+{"symptoms": {"C0013404": "True", "C0242429": "False", "C0027424": "False", "C1260880": "False", "C0037383": "False", "C0028081": "False", "C0015967": "False", "C0010200": "True", "C0232292": "True"}, "disease": "C0004096"}
+{"symptoms": {"C0015967": "True", "C1384666": "False", "C0013456": "True"}, "disease": "C0029878"}
+{"symptoms": {"C0024031": "True", "C0042963": "False", "C0018674": "True"}, "disease": "C0876926"}
+{"symptoms": {"C0262397": "True", "C0027424": "False", "C1260880": "False", "C0015967": "True", "C0018681": "True", "C0085593": "True"}, "disease": "C0024894"}
+{"symptoms": {"C0085624": "True", "C0027497": "True", "C4317146": "False", "C0011991": "False", "C0015967": "False", "C0025222": "False", "C0085593": "False"}, "disease": "C0014868"}
+{"symptoms": {"C0015230": "True", "C0015967": "False", "C0000737": "False", "C0038056": "False", "C0018681": "False", "C0015672": "False", "C0033774": "True"}, "disease": "C0011615"}
+{"symptoms": {"C0010200": "True", "C0015967": "False", "C0038056": "False", "C0232292": "False", "C0013404": "True", "C1260880": "True"}, "disease": "C0004096"}
+{"symptoms": {"C0012833": "True", "C0027497": "True", "C0018674": "True"}, "disease": "C0876926"}
+{"symptoms": {"C0011991": "True", "C0015967": "True", "C0042963": "False"}, "disease": "C0014335"}
+{"symptoms": {"C0232292": "True", "C0019079": "False", "C0028081": "False", "C0015967": "False", "C0010200": "False", "C0013404": "True"}, "disease": "C1279369"}
+{"symptoms": {"C0018681": "True", "C0015967": "True", "C1291077": "False", "C0221512": "False", "C0038056": "False", "C0010200": "False", "C0085593": "True"}, "disease": "C0024894"}
+{"symptoms": {"C0010200": "True", "C0232292": "False", "C0010520": "False", "C0015967": "False", "C0042963": "False", "C1291077": "False", "C0027424": "True"}, "disease": "C0032285"}
+{"symptoms": {"C0027497": "True", "C0042963": "True", "C0008031": "False", "C0232292": "False", "C0085593": "True", "C0015967": "True"}, "disease": "C0024894"}
+{"symptoms": {"C0015967": "True", "C0232292": "False", "C0038056": "False", "C0008031": "False", "C0012833": "False", "C0027497": "False", "C0042963": "False", "C0018681": "False", "C0010200": "True"}, "disease": "C0040147"}
+{"symptoms": {"C0085636": "True", "C0027497": "False", "C1291077": "False", "C0221512": "False", "C0042963": "False", "C0022281": "True", "C0015672": "True"}, "disease": "C0009763"}
+{"symptoms": {"C0085593": "True", "C0232292": "False", "C0015967": "True"}, "disease": "C0024894"}
+{"symptoms": {"C0024031": "True", "C0013428": "False", "C0085594": "False", "C0439609": "False", "C0042023": "False", "C0028081": "True"}, "disease": "C1279369"}
+{"symptoms": {"C0037383": "True", "C1260880": "True", "C0013404": "False", "C0010200": "True", "C0027424": "True"}, "disease": "C0035455"}
+{"symptoms": {"C0018681": "True", "C0038056": "False", "C1260880": "False", "C0242429": "False", "C0015967": "True", "C0085593": "True"}, "disease": "C0024894"}
+{"symptoms": {"C0015967": "True", "C0027424": "False", "C0242429": "False", "C1260880": "False", "C0010200": "True", "C0038056": "True"}, "disease": "C0032285"}
+{"symptoms": {"C0038056": "True", "C0232292": "True", "C0015967": "False", "C0242429": "True", "C0013404": "True", "C0030252": "True"}, "disease": "C0004096"}
+{"symptoms": {"C0013404": "True", "C0018681": "False", "C0019079": "False", "C0011991": "False", "C0221512": "False", "C0008031": "False", "C0042963": "False", "C0027497": "False", "C0015967": "False", "C1260880": "False", "C0242429": "True", "C0038056": "True"}, "disease": "C0004096"}
+{"symptoms": {"C0027497": "True", "C0042963": "False", "C0015967": "False", "C0018681": "True"}, "disease": "C0876926"}
+{"symptoms": {"C0027497": "True", "C0015967": "False", "C0085593": "False", "C0011991": "True", "C1291077": "True"}, "disease": "C0014335"}
+{"symptoms": {"C0018021": "True", "C0007859": "True", "C0030252": "True"}, "disease": "C0040147"}
+{"symptoms": {"C0013456": "True", "C1384666": "False", "C0042571": "False", "C0040264": "False", "C0849907": "True"}, "disease": "C0029878"}
+{"symptoms": {"C0232292": "False", "C0008031": "False", "C0015967": "False", "C0030252": "False"}, "disease": "C0024894"}
+{"symptoms": {"C0022281": "True", "C0015967": "False", "C0151827": "False", "C0344232": "False", "C0085636": "False", "C4074940": "False"}, "disease": "C0009763"}
+{"symptoms": {"C0038990": "True", "C0030252": "True", "C0015300": "False"}, "disease": "C0040147"}
+{"symptoms": {"C0042963": "True", "C0015967": "True", "C0010200": "True", "C0012833": "True"}, "disease": "C0032285"}
+{"symptoms": {"C1260880": "True", "C0013404": "False", "C0015967": "False", "C0027424": "True", "C0037383": "True"}, "disease": "C0035455"}
+{"symptoms": {"C0242429": "True", "C0231874": "False", "C0015967": "False", "C0038862": "False", "C0010200": "True", "C2087577": "True", "C1260880": "True"}, "disease": "C0035455"}
+{"symptoms": {"C0242429": "True", "C0234238": "False", "C0008031": "False", "C0015967": "False", "C0027424": "True"}, "disease": "C0014868"}
+{"symptoms": {"C0042963": "True", "C0010200": "False", "C0221512": "False", "C0008031": "False", "C0027497": "False", "C0038990": "False", "C0232292": "True", "C0011991": "False"}, "disease": "C0014868"}
+{"symptoms": {"C4074940": "False", "C0242429": "False", "C0085636": "False", "C0015967": "False"}, "disease": "C0009763"}
+{"symptoms": {"C0039070": "True", "C0232292": "False", "C0008031": "False", "C0012833": "True"}, "disease": "C1279369"}
+{"symptoms": {"C0042963": "True", "C0018681": "True", "C0027497": "True"}, "disease": "C0876926"}
+{"symptoms": {"C0042963": "True", "C0221512": "False", "C0278012": "False", "C0011991": "True"}, "disease": "C0014868"}
+{"symptoms": {"C0262397": "True", "C0085593": "True", "C0010200": "False", "C0008031": "False", "C0015967": "False", "C0232292": "False", "C0018681": "True"}, "disease": "C0024894"}
+{"symptoms": {"C0037383": "True", "C1260880": "False", "C0014591": "False", "C0027424": "True"}, "disease": "C0035455"}
+{"symptoms": {"C0008031": "True", "C0013404": "False", "C0221512": "False", "C0024031": "False", "C0232292": "True"}, "disease": "C1279369"}
+{"symptoms": {"C0008031": "True", "C4048182": "False", "C0221512": "False", "C0232292": "True", "C0085624": "True"}, "disease": "C0014868"}
+{"symptoms": {"C0085593": "False", "C0018681": "False", "C0015967": "False"}, "disease": "C0024894"}
+{"symptoms": {"C0232292": "False", "C0018681": "False", "C0040264": "False", "C0024031": "False", "C0011991": "False", "C0015967": "False", "C0221512": "False", "C0042963": "False", "C0027497": "False", "C0012833": "False", "C0085593": "False"}, "disease": "C0024894"}
+{"symptoms": {"C0242429": "True", "C0015967": "False", "C0030252": "False", "C0010200": "False", "C0015672": "True"}, "disease": "C0040147"}
+{"symptoms": {"C1260880": "True", "C0242429": "False", "C0015967": "False", "C0010200": "False", "C0027424": "False", "C0037383": "True"}, "disease": "C0035455"}
+{"symptoms": {"C0242429": "True", "C0013404": "False", "C0019079": "False", "C0015967": "False", "C0010200": "True", "C0038056": "True"}, "disease": "C0004096"}
+{"symptoms": {"C0151827": "False", "C4074940": "False", "C0085636": "False", "C0018681": "False", "C0344232": "False", "C0022281": "True"}, "disease": "C0009763"}
+{"symptoms": {"C0013456": "True", "C0010200": "False", "C1260880": "False", "C0015967": "False", "C0242429": "False", "C0027424": "False", "C0040264": "True", "C0849907": "True", "C1384666": "True"}, "disease": "C0029878"}
+{"symptoms": {"C0015230": "True", "C0033774": "True", "C0010200": "False", "C0232292": "False", "C0037383": "False", "C0013428": "False", "C0042023": "False", "C0013404": "False", "C1260880": "False", "C0439609": "False"}, "disease": "C0011615"}
+{"symptoms": {"C0018674": "True", "C0012833": "True", "C0221512": "False", "C0042963": "False", "C0027497": "False", "C0008031": "False"}, "disease": "C0876926"}
+{"symptoms": {"C0242429": "True", "C0015672": "True", "C0018681": "False", "C0013404": "False", "C0013428": "False", "C0042023": "False", "C0015230": "False", "C0221512": "False", "C0439609": "False", "C0027424": "True", "C0010200": "True", "C0011991": "True", "C0015967": "True", "C0042963": "True", "C1260880": "True"}, "disease": "C0024894"}
+{"symptoms": {"C0039971": "True", "C0038056": "False", "C1260880": "True"}, "disease": "C0035455"}
+{"symptoms": {"C0013404": "True", "C0242429": "False", "C0027424": "False", "C0232292": "True", "C0010200": "True", "C1260880": "True"}, "disease": "C0004096"}
+{"symptoms": {"C0232292": "True", "C0038056": "True", "C1291077": "True", "C4317146": "True", "C0008031": "True", "C0013404": "True"}, "disease": "C0014868"}
+{"symptoms": {"C0242429": "True", "C0231530": "False", "C0042963": "False", "C0015967": "True"}, "disease": "C0014335"}
+{"symptoms": {"C0027497": "True", "C0012833": "True", "C0042963": "True"}, "disease": "C0876926"}
+{"symptoms": {"C1260880": "True", "C0013404": "True", "C0015967": "True"}, "disease": "C0004096"}
+{"symptoms": {"C0018681": "True", "C0011991": "True", "C0232292": "False", "C0221512": "False", "C0008031": "False", "C0030252": "False", "C0042963": "False", "C0027497": "False", "C0004604": "False"}, "disease": "C0014335"}
+{"symptoms": {"C0013404": "True", "C0015967": "True", "C0232292": "False", "C0221512": "False", "C0030252": "False", "C0010200": "True", "C0038056": "True"}, "disease": "C0032285"}
+{"symptoms": {"C0027424": "True", "C0010200": "True", "C0013404": "False", "C0232292": "False", "C0010520": "False"}, "disease": "C0032285"}
+{"symptoms": {"C0010200": "True", "C0008031": "False", "C0013404": "True"}, "disease": "C0004096"}
+{"symptoms": {"C0042963": "True", "C0221512": "True", "C0011991": "True", "C0015967": "True"}, "disease": "C0014335"}
+{"symptoms": {"C0012833": "True", "C0042963": "False", "C0018681": "True"}, "disease": "C0876926"}
+{"symptoms": {"C0018674": "True", "C0042963": "False", "C0041657": "False", "C0018681": "True"}, "disease": "C0876926"}
+{"symptoms": {"C0033774": "True", "C0010520": "False", "C0015967": "False", "C0232292": "False", "C0015230": "True"}, "disease": "C0011615"}
+{"symptoms": {"C0027424": "True", "C0010200": "True", "C0042963": "False", "C0242429": "True", "C1260880": "True", "C0037383": "True", "C0011991": "True"}, "disease": "C0014335"}
+{"symptoms": {"C0042963": "True", "C0010200": "False", "C0232292": "False", "C0037383": "False", "C0085593": "False", "C0013404": "False", "C1260880": "False", "C0231530": "False", "C0015230": "False", "C0011991": "True", "C0015967": "True"}, "disease": "C0014335"}
+{"symptoms": {"C0085593": "True", "C0015967": "True", "C0010200": "False", "C0038056": "False", "C0242429": "False"}, "disease": "C0024894"}
+{"symptoms": {"C1291077": "True", "C0008031": "True", "C4317146": "False"}, "disease": "C0014868"}
+{"symptoms": {"C0221512": "True", "C0242429": "True", "C0015967": "False", "C0010200": "False"}, "disease": "C0040147"}
+{"symptoms": {"C0018681": "True", "C0027497": "True", "C0012833": "True"}, "disease": "C0876926"}
+{"symptoms": {"C4074940": "True", "C0085636": "False", "C3665386": "False", "C0151827": "False"}, "disease": "C0009763"}
