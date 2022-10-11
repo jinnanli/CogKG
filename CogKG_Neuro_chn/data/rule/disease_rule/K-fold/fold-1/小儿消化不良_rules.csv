@@ -1,0 +1,2 @@
+rule,confidence
+"IF ('便秘', '排气') THEN 小儿消化不良",1.0
